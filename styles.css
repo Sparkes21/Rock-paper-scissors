@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: wheat;
+  min-height: 100vh;
+}
+
+h2 {
+  color: #9a9ebb;
+}
+
+button {
+  background-color: #7d4e1a;
+  color: white;
+}
+
+.button {
+  display: flex;
+  justify-content: space-between;
+}
